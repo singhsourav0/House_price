@@ -1,9 +1,5 @@
 # House Price
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
 It is a simple House price prediction project contains Mlops feature including Moduler coding
 
 ## Project Organization
